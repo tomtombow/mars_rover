@@ -1,0 +1,22 @@
+.title{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.all {
+  text-align:center;
+}
+
+#tab{
+  margin-left: 200%;
+  border: solid;
+}
+
+.testo{
+  margin:15px;
+  font-family: Helvetica;
+}
+
+#all{
+  background-color: gray;
+}
